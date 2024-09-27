@@ -6,7 +6,7 @@
   "logo": "https://www.stremio.com/website/stremio-logo-small.png",
   "resources": [
     "stream"
-    ],
+  ],
   "types": [
     "movie",
     "series"

@@ -1,0 +1,17 @@
+{
+  "id": "com.github.stremio-arc.arc",
+  "version": "0.0.1",
+  "name": "ARC",
+  "description": "Stremio add-on for HTTP Streams",
+  "logo": "https://www.stremio.com/website/stremio-logo-small.png",
+  "resources": [
+    "stream"
+    ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
+}

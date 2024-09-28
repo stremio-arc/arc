@@ -2,13 +2,13 @@
   "streams": [
     {
       "name": "ARC (Embed)",
-      "description": "auto.2160p.hi",
+      "description": "auto.2160p.hi.yt",
       "externalUrl": "https://www.youtube.com/embed/MT0hGJL6m7k?autoplay=1"
     },
     {
-      "name": "ARC (Youtube)",
-      "description": "auto.1080p.hi",
-      "ytId": "ga1PMLM0Op4"
+      "name": "ARC (Embed)",
+      "description": "auto.1080p.hi.yt",
+      "ytId": "https://www.youtube.com/embed/ga1PMLM0Op4?autoplay=1"
     }
   ]
 }

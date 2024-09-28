@@ -2,8 +2,8 @@
   "streams": [
     {
       "name": "ARC (Embed)",
-      "description": "auto.1080p.en",
-      "externalUrl": "https://player.autoembed.cc/embed/movie/385687"
+      "description": "auto.1080p.en.vs",
+      "externalUrl": "https://vidsrc.dev/embed/movie/tt5433140"
     }
   ]
 }

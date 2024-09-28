@@ -1,9 +1,9 @@
 {
   "streams": [
     {
-      "name": "ARC",
-      "description": "1080p.hi.gd.mkv",
-      "url": "https://pixeldra.in/api/file/axna4KNM?download"
+      "name": "ARC (Youtube)",
+      "description": "auto.1080p.hi",
+      "ytId": "CPyFe0JkmN4"
     }
   ]
 }

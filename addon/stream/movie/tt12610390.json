@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "ARC",
+      "description": "auto.1080p.en.vs",
+      "url": "https://at.wldishere.com/_v16/7fbcc78826cf10c5680a7d5bdd792f35e076a66d101e58218071dbd6af6844bc20e9159686272d6862f2d7b2a7ddbf3725d9c76b77a7ec8cf386465bb4b42d5aad1b4d608ebdfd21053475ccce667464d325cc4d2c2ffdb9d5c26d5dffc7b897ff41a31ac150de41a3da5d64d715898f7761f8fda33b7b478b6fbf68815cb1a6f5928c2045b6bb7b225aeaf328f96e09848228f349296bb6d5ef74ffd7f81a29/playlist.m3u8"
+    }
+  ]
+}

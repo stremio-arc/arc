@@ -31,7 +31,7 @@
       "name": "Live TV Channels",
       "extra": [
         {
-          "name": "country",
+          "name": "genre",
           "isRequired": true,
           "options": [
             "India"

@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tvl-aajtak",
+    "type": "tv",
+    "name": "Aaj Tak",
+    "poster": "https://play-lh.googleusercontent.com/BUuYJQrTI1z5tKXXAAwiFX86vw-cfBwKcLklhvhhDqTlda8zfqEJZkbUoXcRHUZ6dyQ",
+    "posterShape": "square",
+    "genres": [
+      "News"
+    ]
+  }
+}

@@ -28,7 +28,7 @@
     {
       "id": "live",
       "type": "tv",
-      "name": "Live TV Channels",
+      "name": "Country",
       "extra": [
         {
           "name": "genre",

@@ -32,11 +32,11 @@
       "extra": [
         {
           "name": "country",
-          "isRequired": true
+          "isRequired": true,
+          "options": [
+            "India"
+          ]
         }
-      ],
-      "countries": [
-        "India"
       ]
     }
   ]

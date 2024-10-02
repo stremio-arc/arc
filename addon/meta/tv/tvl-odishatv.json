@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "tvl-odishatv",
+    "type": "tv",
+    "name": "OTV",
+    "poster": "https://play-lh.googleusercontent.com/HEIWFLlSe08LzjYex0h4TOiVN3lTdMkL4qiyeX6h8yOqRygJgtApooG0-q69bJfR1Q",
+    "posterShape": "square",
+    "logo": "https://play-lh.googleusercontent.com/HEIWFLlSe08LzjYex0h4TOiVN3lTdMkL4qiyeX6h8yOqRygJgtApooG0-q69bJfR1Q",
+    "description": "Odisha TV or OTV is an Odia Indian Cable Television station. It is owned by the Bhubaneswar-based Odisha Television Network.",
+    "genres": [
+      "News",
+      "Odia",
+      "India"
+    ]
+  }
+}

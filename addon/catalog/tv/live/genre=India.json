@@ -6,8 +6,26 @@
       "name": "Aaj Tak",
       "poster": "https://play-lh.googleusercontent.com/BUuYJQrTI1z5tKXXAAwiFX86vw-cfBwKcLklhvhhDqTlda8zfqEJZkbUoXcRHUZ6dyQ",
       "posterShape": "square",
+      "logo": "https://play-lh.googleusercontent.com/BUuYJQrTI1z5tKXXAAwiFX86vw-cfBwKcLklhvhhDqTlda8zfqEJZkbUoXcRHUZ6dyQ",
+      "description": "Aaj Tak is a Hindi-language news channel owned by the TV Today Network, a part of the New Delhi-based media conglomerate Living Media group",
       "genres": [
-        "News"
+        "News",
+        "Hindi",
+        "India"
+      ]
+    },
+    {
+      "id": "tvl-odishatv",
+      "type": "tv",
+      "name": "OTV",
+      "poster": "https://play-lh.googleusercontent.com/HEIWFLlSe08LzjYex0h4TOiVN3lTdMkL4qiyeX6h8yOqRygJgtApooG0-q69bJfR1Q",
+      "posterShape": "square",
+      "logo": "https://play-lh.googleusercontent.com/HEIWFLlSe08LzjYex0h4TOiVN3lTdMkL4qiyeX6h8yOqRygJgtApooG0-q69bJfR1Q",
+      "description": "Odisha TV or OTV is an Odia Indian Cable Television station. It is owned by the Bhubaneswar-based Odisha Television Network.",
+      "genres": [
+        "News",
+        "Odia",
+        "India"
       ]
     }
   ]

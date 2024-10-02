@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "ARC",
+      "description": "auto.720p.od.m3u8",
+      "url": "https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8"
+    }
+  ]
+}

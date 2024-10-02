@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "ARC",
+      "description": "auto.1080p.hi.mx.m3u8",
+      "url": "https://media-content.akamaized.net/video/2400461a24bfe8f7d0ebbe8630a2e2335ff757a74aab99855f734a271c7dc5a3/hls/h264_high.m3u8"
+    }
+  ]
+}

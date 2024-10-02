@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "ARC",
-      "description": "auto.1080p.od.m3u8",
+      "description": "auto.1080p.od.yt.m3u8",
       "url": "https://ythls-v3.onrender.com/channel/UCCgLMMp4lv7fSD2sBz1Ai6Q.m3u8"
     },
     {

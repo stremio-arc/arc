@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "ARC",
+      "description": "auto.1080p.hi.amtv.mpd",
+      "url": "https://d3s0ximcru5bdx.cloudfront.net/tvfavod-yehmerifamily-exclusive-s3e3-1712035730302/dash/VP9/tvfavod-yehmerifamily-exclusive-s3e3.mpd"
+    }
+  ]
+}

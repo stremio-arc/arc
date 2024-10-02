@@ -5,8 +5,12 @@
     "name": "Aaj Tak",
     "poster": "https://play-lh.googleusercontent.com/BUuYJQrTI1z5tKXXAAwiFX86vw-cfBwKcLklhvhhDqTlda8zfqEJZkbUoXcRHUZ6dyQ",
     "posterShape": "square",
+    "logo": "https://play-lh.googleusercontent.com/BUuYJQrTI1z5tKXXAAwiFX86vw-cfBwKcLklhvhhDqTlda8zfqEJZkbUoXcRHUZ6dyQ",
+    "description": "Aaj Tak is a Hindi-language news channel owned by the TV Today Network, a part of the New Delhi-based media conglomerate Living Media group",
     "genres": [
-      "News"
+      "News",
+      "Hindi",
+      "India"
     ]
   }
 }

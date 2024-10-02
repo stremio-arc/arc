@@ -2,6 +2,11 @@
   "streams": [
     {
       "name": "ARC",
+      "description": "auto.1080p.en.vl.m3u8",
+      "url": "https://cdn4505.varu306lit.com/stream2/i-cdn-0/baeb44642b2b82eb73e31f333d3f21eb/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVBhXW6lVMZp2Z39ERCx2TX1kMOpWW59ERrdXTqFUNPdUW00keFRjT6dWP:1727858080:45.67.229.117:d3177f151439f2f2330a658fa778850230ed67504ffca143925ea906223bf0a1/index.m3u8"
+    },
+    {
+      "name": "ARC",
       "description": "1080p.en.index.mkv",
       "url": "https://a.datadiff.us.kg/movies/The%20Union%20%282024%29/The.Union.2024.REPACK.1080p.WEBRip.x265-DH.mkv"
     }

@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "ARC",
+      "description": "auto.1080p.hi.m3u8",
+      "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
+    }
+  ]
+}

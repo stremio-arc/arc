@@ -5,13 +5,39 @@
   "description": "Stremio add-on for HTTP Streams",
   "logo": "https://www.stremio.com/website/stremio-logo-small.png",
   "resources": [
-    "stream"
+    "stream",
+    {
+      "name": "meta",
+      "types": [
+        "tv"
+      ],
+      "idPrefixes": [
+        "tvl"
+      ]
+    }
   ],
   "types": [
     "movie",
-    "series"
+    "series",
+    "tv"
   ],
   "idPrefixes": [
     "tt"
+  ],
+  "catalogs": [
+    {
+      "id": "live",
+      "type": "tv",
+      "name": "Live TV Channels",
+      "extra": [
+        {
+          "name": "country",
+          "isRequired": true
+        }
+      ],
+      "countries": [
+        "India"
+      ]
+    }
   ]
 }

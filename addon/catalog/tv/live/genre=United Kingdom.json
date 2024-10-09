@@ -1,0 +1,18 @@
+{
+  "metas": [
+    {
+      "id": "tvl-skysportscricket",
+      "type": "tv",
+      "name": "Sky Sports Cricket",
+      "poster": "https://ia600809.us.archive.org/18/items/SkySportsCricket_201708/sky%20sports%20cricket.png",
+      "posterShape": "square",
+      "logo": "https://ia600809.us.archive.org/18/items/SkySportsCricket_201708/sky%20sports%20cricket.png",
+      "description": "Sky Sports is a group of British subscription sports channels operated by the satellite pay television company",
+      "genres": [
+        "Sports",
+        "English",
+        "United Kingdom"
+      ]
+    }
+  ]
+}

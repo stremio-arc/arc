@@ -35,7 +35,8 @@
           "name": "genre",
           "isRequired": true,
           "options": [
-            "India"
+            "India",
+            "United Kingdom"
           ]
         }
       ]

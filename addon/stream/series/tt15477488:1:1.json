@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "ARC",
+      "description": "1080p.hi.rvi.mkv",
+      "url": "https://relivin.vercel.app/api/raw/?path=/MEDIA/TV/Farzi.S01.1080p.AMZN.WEB-DL.DDP5.1.H.265-REL1VIN/Farzi.S01E01.Artist.1080p.AMZN.WEB-DL.DDP5.1.H.265-REL1VIN.mkv"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "streams": [
     {
-      "name": "ARC (Youtube)",
-      "description": "auto.1080p.en",
-      "ytId": "BFtbXwnBRg8"
+      "name": "ARC",
+      "description": "auto.1080p.en.ytb.embed",
+      "externalUrl": "https://www.youtube.com/embed/BFtbXwnBRg8"
     }
   ]
 }

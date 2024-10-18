@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "ARC",
+      "description": "1080p.en.rlv.mkv",
+      "url": "https://relivin.vercel.app/api/raw/?path=/MEDIA/Movies/The.Matrix.Reloaded.2003.1080p.NF.WEB-DL.DDP5.1.H.264-REL1VIN/The.Matrix.Reloaded.2003.1080p.NF.WEB-DL.DDP5.1.H.264-REL1VIN.mkv"
+    }
+  ]
+}

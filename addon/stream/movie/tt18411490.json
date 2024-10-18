@@ -3,7 +3,7 @@
     {
       "name": "ARC",
       "description": "1080p.hi.rlv.mkv",
-      "url": "https://relivin.vercel.app/MEDIA/Movies/Tiger.3.2023.1080p.AMZN.WEB-DL.MULTi.DDP5.1.H.265-REL1VIN/Tiger.3.2023.1080p.AMZN.WEB-DL.MULTi.DDP5.1.H.265-REL1VIN.mkv"
+      "url": "https://relivin.vercel.app/api/raw/?path=/MEDIA/Movies/Tiger.3.2023.1080p.AMZN.WEB-DL.MULTi.DDP5.1.H.265-REL1VIN/Tiger.3.2023.1080p.AMZN.WEB-DL.MULTi.DDP5.1.H.265-REL1VIN.mkv"
     }
   ]
 }

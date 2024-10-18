@@ -3,7 +3,7 @@
     {
       "name": "ARC",
       "description": "1080p.en.rlv.mkv",
-      "url": "https://relivin.vercel.app/MEDIA/Movies/Wolfs.2024.1080p.ATVP.WEB-DL.DD5.1.H.265-REL1VIN/Wolfs.2024.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.265-REL1VIN.mkv"
+      "url": "https://relivin.vercel.app/api/raw/?path=/MEDIA/Movies/Wolfs.2024.1080p.ATVP.WEB-DL.DD5.1.H.265-REL1VIN/Wolfs.2024.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.265-REL1VIN.mkv"
     },
     {
       "name": "ARC",

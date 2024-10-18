@@ -3,7 +3,7 @@
     {
       "name": "ARC",
       "description": "1080p.hi.rlv.mkv",
-      "url": "https://relivin.vercel.app/MEDIA/Movies/Yeh.Jawaani.Hai.Deewani.2013.1080p.NF.WEB-DL.DDP5.1.H.264-REL1VIN/Yeh.Jawaani.Hai.Deewani.2013.1080p.NF.WEB-DL.DDP5.1.H.264-REL1VIN.mkv"
+      "url": "https://relivin.vercel.app/api/raw/?path=/MEDIA/Movies/Yeh.Jawaani.Hai.Deewani.2013.1080p.NF.WEB-DL.DDP5.1.H.264-REL1VIN/Yeh.Jawaani.Hai.Deewani.2013.1080p.NF.WEB-DL.DDP5.1.H.264-REL1VIN.mkv"
     }
   ]
 }

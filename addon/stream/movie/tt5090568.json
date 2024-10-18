@@ -3,7 +3,7 @@
     {
       "name": "ARC",
       "description": "1080p.en.hi.rlv.mkv",
-      "url": "https://relivin.vercel.app/MEDIA/Movies/Transformers.Rise.of.the.Beasts.2023.1080p.AMZN.WEB-DL.MULTi.DDP5.1.H.265-REL1VIN/Transformers.Rise.of.the.Beasts.2023.1080p.AMZN.WEB-DL.MULTi.DDP5.1.H.265-REL1VIN.mkv"
+      "url": "https://relivin.vercel.app/api/raw/?path=/MEDIA/Movies/Transformers.Rise.of.the.Beasts.2023.1080p.AMZN.WEB-DL.MULTi.DDP5.1.H.265-REL1VIN/Transformers.Rise.of.the.Beasts.2023.1080p.AMZN.WEB-DL.MULTi.DDP5.1.H.265-REL1VIN.mkv"
     }
   ]
 }

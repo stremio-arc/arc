@@ -3,7 +3,7 @@
     {
       "name": "ARC",
       "description": "1080p.en.rlv.mkv",
-      "url": "https://relivin.vercel.app/MEDIA/Movies/Top.Gun.Maverick.2022.AMZN.WEB-DL.H265-REL1V!N/Top.Gun.Maverick.2022.AMZN.WEB-DL.H265-REL1V!N.mp4"
+      "url": "https://relivin.vercel.app/api/raw/?path=/MEDIA/Movies/Top.Gun.Maverick.2022.AMZN.WEB-DL.H265-REL1V!N/Top.Gun.Maverick.2022.AMZN.WEB-DL.H265-REL1V!N.mp4"
     }
   ]
 }

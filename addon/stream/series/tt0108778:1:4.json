@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "ARC",
+      "description": "1080p.en.rlv.mkv",
+      "url": "https://relivin.vercel.app/api/raw/?path=/MEDIA/TV/Friends.S01.1080p.MAX.WEB-DL.DDP5.1.10Bit.H.265-REL1VIN/Friends.S01E04.The.One.with.George.Stephanopoulos.1080p.MAX.WEB-DL.DDP5.1.10Bit.H.265-REL1VIN.mkv"
+    }
+  ]
+}

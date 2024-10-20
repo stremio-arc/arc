@@ -20,10 +20,10 @@ https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/i
 #EXT-X-STREAM-INF:BANDWIDTH=367620,AVERAGE-BANDWIDTH=353928,RESOLUTION=416x240,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_26.m3u8
 #EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=768000,CODECS="avc1.64001F",RESOLUTION=960x540,URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_27.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Bengali",LANGUAGE="ben",DEFAULT=YES,AUTOSELECT=YES,URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_17_0.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="English",LANGUAGE="eng",DEFAULT=YE,AUTOSELECT=YES,URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_11_0.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Hindi",LANGUAGE="hin",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_12_0.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Bengali",LANGUAGE="ben",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_17_0.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Kannada",LANGUAGE="kan",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_16_0.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Malayalam",LANGUAGE="mal",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_15_0.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Telugu",LANGUAGE="tel",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_14_0.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Tamil",LANGUAGE="tam",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_13_0.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Hindi",LANGUAGE="hin",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_12_0.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="English",LANGUAGE="eng",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_11_0.m3u8"

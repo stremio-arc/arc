@@ -2,7 +2,7 @@
 <MPD xmlns="urn:mpeg:dash:schema:mpd:2011" profiles="urn:mpeg:dash:profile:isoff-live:2011" minBufferTime="PT4.00S" mediaPresentationDuration="PT21M50.000S" type="static">
 	<Period>
 		<AdaptationSet mimeType="video/mp4" segmentAlignment="true" startWithSAP="1" maxWidth="1920" maxHeight="1080">
-			<SegmentTemplate timescale="1000" duration="4000" initialization="https://securetoken.sonyliv.com/DASH/1b015a61967d47c0a6f3b32bda12c160/1729071442/baseline-std-v4/$RepresentationID$/init.mp4" media="https://securetoken.sonyliv.com/DASH/1b015a61967d47c0a6f3b32bda12c160/1729071442/baseline-std-v4/$RepresentationID$/seg-$Number$.m4s" startNumber="1"></SegmentTemplate>
+			<SegmentTemplate timescale="1000" duration="4000" media="https://securetoken.sonyliv.com/DASH/1b015a61967d47c0a6f3b32bda12c160/1729071442/baseline-std-v4/$RepresentationID$/seg-$Number$.m4s" startNumber="1"></SegmentTemplate>
 			<Representation id="video/avc1/1-240v1" codecs="avc1.4D4015" width="460" height="240" scanType="progressive" frameRate="25" bandwidth="269284"></Representation>
 			<Representation id="video/avc1/2-360v1" codecs="avc1.4D401E" width="640" height="360" scanType="progressive" frameRate="25" bandwidth="533875"></Representation>
 			<Representation id="video/avc1/3-540v1" codecs="avc1.4D401F" width="960" height="540" scanType="progressive" frameRate="25" bandwidth="963030"></Representation>
@@ -12,7 +12,7 @@
 			<Representation id="video/avc1/7-1080v2" codecs="avc1.4D4028" width="1920" height="1080" scanType="progressive" frameRate="25" bandwidth="4240056"></Representation>
 		</AdaptationSet>
 		<AdaptationSet mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="hin" label="Hindi">
-			<SegmentTemplate timescale="1000" duration="4000" initialization="https://securetoken.sonyliv.com/DASH/1b015a61967d47c0a6f3b32bda12c160/1729071442/baseline-std-v4/$RepresentationID$/init.mp4" media="https://securetoken.sonyliv.com/DASH/1b015a61967d47c0a6f3b32bda12c160/1729071442/baseline-std-v4/$RepresentationID$/seg-$Number$.m4s" startNumber="1"></SegmentTemplate>
+			<SegmentTemplate timescale="1000" duration="4000" media="https://securetoken.sonyliv.com/DASH/1b015a61967d47c0a6f3b32bda12c160/1729071442/baseline-std-v4/$RepresentationID$/seg-$Number$.m4s" startNumber="1"></SegmentTemplate>
 			<Representation id="audio/hin/mp4a" codecs="mp4a.40.2" bandwidth="129707" audioSamplingRate="48000">
 				<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
 			</Representation>

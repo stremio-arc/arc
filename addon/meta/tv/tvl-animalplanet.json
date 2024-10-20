@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tvl-animalplanet",
+    "type": "tv",
+    "name": "Animal Planet",
+    "poster": "https://ia800101.us.archive.org/10/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png",
+    "posterShape": "square",
+    "logo": "https://ia800101.us.archive.org/10/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png",
+    "description": "Sky Sports is a group of British subscription sports channels operated by the satellite pay television company",
+    "genres": [
+      "Nature",
+      "English",
+      "Hindi",
+      "India"
+    ]
+  }
+}

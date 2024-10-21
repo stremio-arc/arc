@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "arc-foodnetwork",
+      "type": "tv",
+      "name": "Food Network",
+      "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/052016/untitled-1_243.png",
+      "posterShape": "square",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/052016/untitled-1_243.png",
+      "description": "Food Network is an American basic cable channel owned by Television Food Network, G.P., a joint venture and general partnership between Warner Bros. Discovery Networks and Nexstar Media Group.",
+      "genres": [
+        "Food",
+        "English",
+        "United States"
+      ]
+    },
+    {
       "id": "arc-tlc",
       "type": "tv",
       "name": "TLC",

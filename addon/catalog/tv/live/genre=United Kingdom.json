@@ -1,7 +1,7 @@
 {
   "metas": [
     {
-      "id": "tvl-skysportscricket",
+      "id": "arc-skysportscricket",
       "type": "tv",
       "name": "Sky Sports Cricket",
       "poster": "https://ia600809.us.archive.org/18/items/SkySportsCricket_201708/sky%20sports%20cricket.png",
@@ -15,7 +15,7 @@
       ]
     },
     {
-      "id": "tvl-skysportsmainevent",
+      "id": "arc-skysportsmainevent",
       "type": "tv",
       "name": "Sky Sports Main Event",
       "poster": "https://ia800101.us.archive.org/10/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png",

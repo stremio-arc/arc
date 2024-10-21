@@ -12,7 +12,7 @@
         "tv"
       ],
       "idPrefixes": [
-        "tvl"
+        "arc"
       ]
     }
   ],
@@ -23,7 +23,7 @@
   ],
   "idPrefixes": [
     "tt",
-    "tvl"
+    "arc"
   ],
   "catalogs": [
     {

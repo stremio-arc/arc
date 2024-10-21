@@ -1,61 +1,17 @@
 {
   "metas": [
     {
-      "id": "arc-aajtak",
+      "id": "arc-travelchannel",
       "type": "tv",
-      "name": "Aaj Tak",
-      "poster": "https://yt3.googleusercontent.com/ytc/AIdro_m1WLxquYeEO9VgyA7-cYFrn_hd2dSaNtmL8-NIHMCQIuPQ",
+      "name": "Travel Channel",
+      "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/112015/logo_-_diego_artier_horizontal_0.png",
       "posterShape": "square",
-      "logo": "https://yt3.googleusercontent.com/ytc/AIdro_m1WLxquYeEO9VgyA7-cYFrn_hd2dSaNtmL8-NIHMCQIuPQ",
-      "description": "Aaj Tak is a Hindi-language news channel owned by the TV Today Network, a part of the New Delhi-based media conglomerate Living Media group",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/112015/logo_-_diego_artier_horizontal_0.png",
+      "description": "Travel Channel is an American pay television channel owned by Warner Bros. Discovery",
       "genres": [
-        "News",
-        "Hindi",
-        "India"
-      ]
-    },
-    {
-      "id": "arc-animalplanet",
-      "type": "tv",
-      "name": "Animal Planet",
-      "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/052019/1280px-2018_animal_planet_logo.svg_.png",
-      "posterShape": "square",
-      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/052019/1280px-2018_animal_planet_logo.svg_.png",
-      "description": "Animal Planet is an American multinational pay television channel, and associated AnimalPlanet.com website content, owned by the Warner Bros. Discovery Networks unit of Warner Bros. Discovery.",
-      "genres": [
-        "Nature",
+        "Travel",
         "English",
-        "Hindi",
-        "India"
-      ]
-    },
-    {
-      "id": "arc-discovery",
-      "type": "tv",
-      "name": "Discovery",
-      "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062019/img_20190616_133352.png",
-      "posterShape": "square",
-      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062019/img_20190616_133352.png",
-      "description": "Discovery Channel, often referred to as simply Discovery, is an American cable channel owned by Warner Bros. Discovery",
-      "genres": [
-        "Nature",
-        "English",
-        "Hindi",
-        "India"
-      ]
-    },
-    {
-      "id": "arc-odishatv",
-      "type": "tv",
-      "name": "OTV",
-      "poster": "https://yt3.googleusercontent.com/UvoRw1Yhl9HRXi8nemN8q5KElnhehmXlDyYNYNvPnMFp3oFtNX2LDBEJFNy6TYyMsisG7AQH0Q",
-      "posterShape": "square",
-      "logo": "https://yt3.googleusercontent.com/UvoRw1Yhl9HRXi8nemN8q5KElnhehmXlDyYNYNvPnMFp3oFtNX2LDBEJFNy6TYyMsisG7AQH0Q",
-      "description": "Odisha TV or OTV is an Odia Indian Cable Television station. It is owned by the Bhubaneswar-based Odisha Television Network.",
-      "genres": [
-        "News",
-        "Odia",
-        "India"
+        "United States"
       ]
     }
   ]

@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "arc-tlc",
+    "type": "tv",
+    "name": "TLC",
+    "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/032015/tlc.png",
+    "posterShape": "square",
+    "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/032015/tlc.png",
+    "description": "TLC is an American multinational cable and satellite television network owned by the Networks division of Warner Bros. Discovery",
+    "genres": [
+      "Travel",
+      "English",
+      "United States"
+    ]
+  }
+}

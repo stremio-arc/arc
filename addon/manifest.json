@@ -36,7 +36,8 @@
           "isRequired": true,
           "options": [
             "India",
-            "United Kingdom"
+            "United Kingdom",
+            "United States"
           ]
         }
       ]

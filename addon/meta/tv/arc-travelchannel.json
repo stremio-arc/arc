@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "arc-travelchannel",
+    "type": "tv",
+    "name": "Travel Channel",
+    "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/112015/logo_-_diego_artier_horizontal_0.png",
+    "posterShape": "square",
+    "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/112015/logo_-_diego_artier_horizontal_0.png",
+    "description": "Travel Channel is an American pay television channel owned by Warner Bros. Discovery",
+    "genres": [
+      "Travel",
+      "English",
+      "United States"
+    ]
+  }
+}

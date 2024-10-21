@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "arc-investigationdiscovery",
+    "type": "tv",
+    "name": "Investigation Discovery",
+    "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/042020/investigationdiscovery.png",
+    "posterShape": "square",
+    "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/042020/investigationdiscovery.png",
+    "description": "nvestigation Discovery, stylized and branded on-air as ID since 2008, is an American multinational pay television network dedicated to true crime documentaries owned by Warner Bros. Discovery.",
+    "genres": [
+      "Crime",
+      "English",
+      "Hindi",
+      "United States"
+    ]
+  }
+}

@@ -15,36 +15,6 @@
       ]
     },
     {
-      "id": "arc-animalplanet",
-      "type": "tv",
-      "name": "Animal Planet",
-      "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/052019/1280px-2018_animal_planet_logo.svg_.png",
-      "posterShape": "square",
-      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/052019/1280px-2018_animal_planet_logo.svg_.png",
-      "description": "Animal Planet is an American multinational pay television channel, and associated AnimalPlanet.com website content, owned by the Warner Bros. Discovery Networks unit of Warner Bros. Discovery.",
-      "genres": [
-        "Nature",
-        "English",
-        "Hindi",
-        "India"
-      ]
-    },
-    {
-      "id": "arc-discovery",
-      "type": "tv",
-      "name": "Discovery",
-      "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062019/img_20190616_133352.png",
-      "posterShape": "square",
-      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062019/img_20190616_133352.png",
-      "description": "Discovery Channel, often referred to as simply Discovery, is an American cable channel owned by Warner Bros. Discovery",
-      "genres": [
-        "Nature",
-        "English",
-        "Hindi",
-        "India"
-      ]
-    },
-    {
       "id": "arc-odishatv",
       "type": "tv",
       "name": "OTV",

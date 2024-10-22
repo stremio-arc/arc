@@ -35,6 +35,7 @@
           "name": "genre",
           "isRequired": true,
           "options": [
+            "Canada",
             "India",
             "United Kingdom",
             "United States"

@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "arc-lovenature",
+    "type": "tv",
+    "name": "Love Nature",
+    "poster": "https://blueantmedia.com/wp-content/uploads/2020/06/Love-Nature-1.png",
+    "posterShape": "square",
+    "logo": "https://blueantmedia.com/wp-content/uploads/2020/06/Love-Nature-1.png",
+    "description": "Love Nature is a Canadian specialty television channel owned by Blue Ant Media. Originally launched on March 12, 2006, the channel broadcasts documentaries and television series related to wildlife and nature.",
+    "genres": [
+      "Nature",
+      "English",
+      "Canada"
+    ]
+  }
+}

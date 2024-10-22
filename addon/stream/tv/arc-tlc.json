@@ -3,7 +3,7 @@
     {
       "name": "ARC",
       "description": "auto.1080p.en.hi.m3u8",
-      "url": "https://github.com/stremio-arc/playlists/raw/refs/heads/main/dcp/tlc.m3u8"
+      "url": "https://raw.githubusercontent.com/stremio-arc/playlists/refs/heads/main/dcp/tlc.m3u8"
     }
   ]
 }

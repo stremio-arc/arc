@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "lint": "standard --fix",
-    "gen:series": "node generateSeries"
+    "gen:series": "node generateSeries",
+    "gens:remote": "node generateSeriesRemote"
   },
   "devDependencies": {
     "standard": "^17.1.2"

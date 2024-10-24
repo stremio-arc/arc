@@ -24,12 +24,16 @@ async function fetchAndExtract (id, urlString, regex) {
     const data = await response.text()
     const matches = data.matchAll(regex)
 
+    let source = 'unknown'
+
+    if (url.host === 'dl2.sermoviedown.pw') source = 'smd'
+
     for (const match of matches) {
       const data = {
         streams: [
           {
             name: 'ARC',
-            description: '480p.en.iao.mp4',
+            description: `${match[6]}.en.${source}.${match[7]}`,
             url: `${urlString}/${match[1]}`
           }
         ]
@@ -51,6 +55,6 @@ if (!id || !url) {
   process.exit(1)
 }
 
-const regex = /"(.+S(\d+)(\s+)?E(\d+).+.mp4)"/gm
+const regex = /href="([^"]+S(\d+)(\s+)?E(\d+)([^"]+)?(1080p)[^"]+.(mp4|mkv))"/gm
 
-fetchAndExtract(id, url, regex)
+fetchAndExtract(id, url.replace(/\/+$/, ''), regex)

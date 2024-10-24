@@ -1,0 +1,11 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "standard --fix",
+    "gen:series": "node generateSeries"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  }
+}

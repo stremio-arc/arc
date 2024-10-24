@@ -2,12 +2,7 @@
   "streams": [
     {
       "name": "ARC",
-      "description": "1080p.h264.en.dff.mkv",
-      "url": "https://a.datadiff.us.kg/tvs/Prison%20Break/Season%201/Prison%20Break%20-%20S01E01%20-%20Pilot%20WEBDL-1080p.mkv"
-    },
-    {
-      "name": "ARC",
-      "description": "1080p.h265.en.sdm.mkv",
+      "description": "1080p.en.smd.mkv",
       "url": "https://dl2.sermoviedown.pw/Series/2005/Prison.Break/S1/1080p.x265.10Bit/Prison.Break.S01E01.1080p.10bit.BluRay.x265.HEVC.6CH.MRN.Sermovie.mkv"
     }
   ]

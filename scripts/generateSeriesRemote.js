@@ -1,8 +1,10 @@
-const fs = require('node:fs')
+// const fs = require('node:fs')
 const { URL } = require('node:url')
-const path = require('node:path')
+// const path = require('node:path')
 
-const seriesDirectory = path.join(__dirname, '../addon/stream/series')
+const { addStream } = require('./util')
+
+// const seriesDirectory = path.join(__dirname, '../addon/stream/series')
 
 async function fetchAndExtract (id, urlString, regex) {
   try {
@@ -32,18 +34,16 @@ async function fetchAndExtract (id, urlString, regex) {
     if (host === 'YXJjaGl2ZS5vcmc=') source = 'iao'
 
     for (const match of matches) {
-      const data = {
-        streams: [
-          {
-            name: 'ARC',
-            description: `${match[6]}.en.${source}.${match[7]}`,
-            url: `${urlString}/${match[1]}`
-          }
-        ]
-      }
-      const fileName = `${id}:${parseInt(match[2])}:${parseInt(match[4])}.json` // Customize file naming as needed
-      fs.writeFileSync(`${seriesDirectory}/${fileName}`, JSON.stringify(data, null, 2))
-      console.log(`Generated ${fileName}`)
+      addStream({
+        type: 'series',
+        id,
+        season: parseInt(match[3]),
+        episode: parseInt(match[5]),
+        resolution: match[7],
+        source,
+        extension: match[8],
+        url: `${urlString}/${match[1]}`
+      })
     }
   } catch (error) {
     console.error('Error:', error)
@@ -58,6 +58,6 @@ if (!id || !url) {
   process.exit(1)
 }
 
-const regex = /href="([^"]+S(\d+)(\s+)?E(\d+)([^"]+)?(1080p)[^"]+.(mp4|mkv))"/gm
+const regex = /href="(([^"]+)?S(\d+)(\s+)?E(\d+)([^"]+)?(1080p)?[^"]+\.(mkv|mp4))"/gm
 
 fetchAndExtract(id, url.replace(/\/+$/, ''), regex)

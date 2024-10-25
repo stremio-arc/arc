@@ -70,6 +70,6 @@ if (!id || !url) {
   process.exit(1)
 }
 
-const regex = /href="(([^"]+)?(S(\d+)(\s+)?E(\d+)|(\d+)x(\d+))([^"]+)?(1080p)?([^"]+)?\.(mkv|mp4))"/gm
+const regex = /href="(([^"]+)?(S(\d+)(%20)?E(\d+)|(\d+)x(\d+))([^"]+)?(1080p)?([^"]+)?\.(mkv|mp4))"/gm
 
 fetchAndExtract(id, url.replace(/\/+$/, ''), regex)

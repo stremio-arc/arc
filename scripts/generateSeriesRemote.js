@@ -24,7 +24,7 @@ async function fetchAndExtract (id, urlString, regex) {
     }
 
     const data = await response.text()
-    const matches = data.matchAll(regex)
+    const matches = decodeURI(data).matchAll(regex)
 
     let source = 'unknown'
 
@@ -34,7 +34,7 @@ async function fetchAndExtract (id, urlString, regex) {
     if (host === 'YXJjaGl2ZS5vcmc=') source = 'iao'
 
     for (const match of matches) {
-      const filename = match[1]
+      const filename = encodeURI(match[1])
 
       let season
       if (match[4] !== undefined) season = parseInt(match[4])
@@ -70,6 +70,6 @@ if (!id || !url) {
   process.exit(1)
 }
 
-const regex = /href="(([^"]+)?(S(\d+)(%20)?E(\d+)|(\d+)x(\d+))([^"]+)?(1080p)?([^"]+)?\.(mkv|mp4))"/gm
+const regex = /href="(([^"]+)?(S(\d+)(\s+)?E(\d+)|(\d+)x(\d+))([^"]+)?(1080p)?([^"]+)?\.(mkv|mp4))"/gm
 
 fetchAndExtract(id, url.replace(/\/+$/, ''), regex)

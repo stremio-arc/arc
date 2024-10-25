@@ -26,7 +26,10 @@ async function fetchAndExtract (id, urlString, regex) {
 
     let source = 'unknown'
 
-    if (url.host === 'dl2.sermoviedown.pw') source = 'smd'
+    const host = Buffer.from(url.host).toString('base64')
+
+    if (host === 'ZGwyLnNlcm1vdmllZG93bi5wdw==') source = 'smd'
+    if (host === 'YXJjaGl2ZS5vcmc=') source = 'iao'
 
     for (const match of matches) {
       const data = {

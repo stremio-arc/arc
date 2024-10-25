@@ -34,15 +34,27 @@ async function fetchAndExtract (id, urlString, regex) {
     if (host === 'YXJjaGl2ZS5vcmc=') source = 'iao'
 
     for (const match of matches) {
+      const filename = match[1]
+
+      let season
+      if (match[4] !== undefined) season = parseInt(match[4])
+      if (match[7] !== undefined) season = parseInt(match[7])
+
+      let episode
+      if (match[6] !== undefined) episode = parseInt(match[6])
+      if (match[8] !== undefined) episode = parseInt(match[8])
+
+      const extension = match[12]
+
       addStream({
         type: 'series',
         id,
-        season: parseInt(match[3]),
-        episode: parseInt(match[5]),
-        resolution: match[7],
+        season,
+        episode,
+        resolution: match[11],
         source,
-        extension: match[8],
-        url: `${urlString}/${match[1]}`
+        extension,
+        url: `${urlString}/${filename}`
       })
     }
   } catch (error) {
@@ -58,6 +70,6 @@ if (!id || !url) {
   process.exit(1)
 }
 
-const regex = /href="(([^"]+)?S(\d+)(\s+)?E(\d+)([^"]+)?(1080p)?[^"]+\.(mkv|mp4))"/gm
+const regex = /href="(([^"]+)?(S(\d+)(\s+)?E(\d+)|(\d+)x(\d+))([^"]+)?(1080p)?([^"]+)?\.(mkv|mp4))"/gm
 
 fetchAndExtract(id, url.replace(/\/+$/, ''), regex)

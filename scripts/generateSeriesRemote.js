@@ -65,6 +65,7 @@ const start = async () => {
         season,
         episode,
         resolution: getResolution(filename),
+        language: flags.language,
         source,
         extension,
         url

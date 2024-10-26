@@ -71,7 +71,8 @@ exports.parseFlags = () => {
   return {
     id: getFlag('id'),
     url: getFlag('url'),
-    source: getFlag('source')
+    source: getFlag('source'),
+    language: getFlag('lang')
   }
 }
 

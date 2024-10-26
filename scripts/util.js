@@ -79,7 +79,7 @@ const reResolution = /(2160p|1080p)/gi
 exports.getResolution = (filename) => {
   const matches = filename.match(reResolution)
 
-  return matches[0]
+  return matches?.[0]
 }
 
 const reSeasonEpisode = /(s)(\d+)(\s+)?(e|ep)(\d+)|(\d+)x(\d+)/i

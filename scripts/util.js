@@ -59,3 +59,16 @@ exports.addStream = (data) => {
     console.error('Error:', error)
   }
 }
+
+const getFlag = (flag) => {
+  const value = process.argv.find(arg => arg.startsWith(`${flag}=`))
+  return value?.split('=')[1]
+}
+
+exports.parseFlags = () => {
+  return {
+    id: getFlag('id'),
+    url: getFlag('url'),
+    source: getFlag('source')
+  }
+}

@@ -1,34 +1,44 @@
-// const fs = require('node:fs')
+const fs = require('node:fs')
+const path = require('node:path')
 const { URL } = require('node:url')
-// const path = require('node:path')
 
-const { addStream } = require('./util')
+const { addStream, parseFlags } = require('./util')
 
-// const seriesDirectory = path.join(__dirname, '../addon/stream/series')
+const regex = /href="(([^"]+)?(S(\d+)(\s+)?E(\d+)|(\d+)x(\d+))([^"]+)?(1080p)?([^"]+)?\.(mkv|mp4))"/gm
 
-async function fetchAndExtract (id, urlString, regex) {
+const start = async () => {
   try {
-    const url = new URL(urlString)
-    if (!url.protocol.startsWith('http')) {
-      throw new Error('Invalid URL protocol. Only http and https are supported.')
-    }
+    const flags = parseFlags()
 
-    const response = await fetch(urlString, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36' // Add a user agent to avoid 403 errors
+    let contents
+    let baseUrl
+
+    // read source if available
+    if (flags.source) {
+      const sourceFile = path.join(__dirname, flags.source)
+      contents = fs.readFileSync(sourceFile)
+
+      baseUrl = new URL(flags.url)
+    } else if (flags.url) {
+      const response = await fetch(flags.url, {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36' // Add a user agent to avoid 403 errors
+        }
+      })
+
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`)
       }
-    })
 
-    if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`)
+      contents = await response.text()
+      baseUrl = new URL(flags.url)
     }
 
-    const data = await response.text()
-    const matches = decodeURI(data).matchAll(regex)
+    const matches = contents.matchAll(regex)
 
     let source = 'unknown'
 
-    const host = Buffer.from(url.host).toString('base64')
+    const host = Buffer.from(baseUrl.host).toString('base64')
 
     if (host === 'ZGwyLnNlcm1vdmllZG93bi5wdw==') source = 'smd'
     if (host === 'YXJjaGl2ZS5vcmc=') source = 'iao'
@@ -48,13 +58,13 @@ async function fetchAndExtract (id, urlString, regex) {
 
       addStream({
         type: 'series',
-        id,
+        id: flags.id,
         season,
         episode,
         resolution: match[11],
         source,
         extension,
-        url: `${urlString}/${filename}`
+        url: `${baseUrl}/${filename}`
       })
     }
   } catch (error) {
@@ -62,14 +72,4 @@ async function fetchAndExtract (id, urlString, regex) {
   }
 }
 
-const id = process.argv[2]
-const url = process.argv[3]
-
-if (!id || !url) {
-  console.error('Usage: npm run extract-regex <id> <url>')
-  process.exit(1)
-}
-
-const regex = /href="(([^"]+)?(S(\d+)(\s+)?E(\d+)|(\d+)x(\d+))([^"]+)?(1080p)?([^"]+)?\.(mkv|mp4))"/gm
-
-fetchAndExtract(id, url.replace(/\/+$/, ''), regex)
+start()

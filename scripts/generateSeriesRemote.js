@@ -2,9 +2,9 @@ const fs = require('node:fs')
 const path = require('node:path')
 const { URL } = require('node:url')
 
-const { addStream, parseFlags } = require('./util')
+const { addStream, parseFlags, getResolution, getSeasonEpisode } = require('./util')
 
-const regex = /href="(([^"]+)?(S(\d+)(\s+)?E(\d+)|(\d+)x(\d+))([^"]+)?(1080p)?([^"]+)?\.(mkv|mp4))"/gm
+const reFiles = /<a (.+)?href="([^"]+)"(.+)?>([^<]+\.(mkv|mp4))<\/a>/gm
 
 const start = async () => {
   try {
@@ -34,7 +34,7 @@ const start = async () => {
       baseUrl = new URL(flags.url)
     }
 
-    const matches = contents.matchAll(regex)
+    const matches = contents.matchAll(reFiles)
 
     let source = 'unknown'
 
@@ -44,27 +44,21 @@ const start = async () => {
     if (host === 'YXJjaGl2ZS5vcmc=') source = 'iao'
 
     for (const match of matches) {
-      const filename = encodeURI(match[1])
+      const ref = match[2]
+      const filename = match[4]
+      const extension = match[5]
 
-      let season
-      if (match[4] !== undefined) season = parseInt(match[4])
-      if (match[7] !== undefined) season = parseInt(match[7])
-
-      let episode
-      if (match[6] !== undefined) episode = parseInt(match[6])
-      if (match[8] !== undefined) episode = parseInt(match[8])
-
-      const extension = match[12]
+      const { season, episode } = getSeasonEpisode(filename)
 
       addStream({
         type: 'series',
         id: flags.id,
         season,
         episode,
-        resolution: match[11],
+        resolution: getResolution(filename),
         source,
         extension,
-        url: `${baseUrl}/${filename}`
+        url: `${baseUrl}/${ref}`
       })
     }
   } catch (error) {

@@ -11,6 +11,8 @@ const checkExtensionOrder = (incoming, existing) => extensionOrder.indexOf(getEx
 
 exports.addStream = (data) => {
   try {
+    //console.log(data)
+    
     if (data.language === undefined) data.language = 'eng'
     if (data.resolution === undefined) data.resolution = '1080p'
 
@@ -71,4 +73,26 @@ exports.parseFlags = () => {
     url: getFlag('url'),
     source: getFlag('source')
   }
+}
+
+const reResolution = /(2160p|1080p)/gi
+exports.getResolution = (filename) => {
+  const matches = filename.match(reResolution)
+
+  return matches[0]
+}
+
+const reSeasonEpisode = /(s)(\d+)(\s+)?(e|ep)(\d+)|(\d+)x(\d+)/i
+exports.getSeasonEpisode = (filename) => {
+  const matches = filename.match(reSeasonEpisode)
+
+  let season
+  if (matches[2] !== undefined) season = parseInt(matches[2])
+  if (matches[6] !== undefined) season = parseInt(matches[6])
+
+  let episode
+  if (matches[5] !== undefined) episode = parseInt(matches[5])
+  if (matches[7] !== undefined) episode = parseInt(matches[7])
+
+  return { season, episode }
 }

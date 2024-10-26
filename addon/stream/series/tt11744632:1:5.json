@@ -2,6 +2,11 @@
   "streams": [
     {
       "name": "ARC",
+      "description": "1080p.eng.vdv.mkv",
+      "url": "https://vadapav.mov/f/6526fd7f-f5e3-4a2c-a5c5-c28725a3118a/"
+    },
+    {
+      "name": "ARC",
       "description": "auto.1080p.en.ytb.embed",
       "externalUrl": "https://www.youtube.com/embed/KJCL9LR6rJI"
     }

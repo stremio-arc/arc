@@ -16,7 +16,7 @@ const start = async () => {
     // read source if available
     if (flags.source) {
       const sourceFile = path.join(__dirname, flags.source)
-      contents = fs.readFileSync(sourceFile)
+      contents = fs.readFileSync(sourceFile, 'utf8')
 
       baseUrl = new URL(flags.url)
     } else if (flags.url) {
@@ -40,6 +40,7 @@ const start = async () => {
 
     const host = Buffer.from(baseUrl.host).toString('base64')
 
+    if (host === 'dmFkYXBhdi5tb3Y=') source = 'vdv'
     if (host === 'ZGwyLnNlcm1vdmllZG93bi5wdw==') source = 'smd'
     if (host === 'YXJjaGl2ZS5vcmc=') source = 'iao'
 
@@ -50,6 +51,14 @@ const start = async () => {
 
       const { season, episode } = getSeasonEpisode(filename)
 
+      let url 
+      
+      if(ref.startsWith('/')){
+        url = `${baseUrl.protocol}//${baseUrl.host}${ref}`
+      } else{
+        url = `${baseUrl}/${ref}`
+      }
+
       addStream({
         type: 'series',
         id: flags.id,
@@ -58,7 +67,7 @@ const start = async () => {
         resolution: getResolution(filename),
         source,
         extension,
-        url: `${baseUrl}/${ref}`
+        url
       })
     }
   } catch (error) {

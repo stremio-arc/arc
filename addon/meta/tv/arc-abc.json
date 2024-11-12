@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "arc-abc",
+    "type": "tv",
+    "name": "ABC",
+    "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0009/9467/brand.gif",
+    "posterShape": "square",
+    "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0009/9467/brand.gif",
+    "description": "The American Broadcasting Company is an American commercial broadcast television and radio network that serves as the flagship property of the Disney Entertainment division of the Walt Disney Company.",
+    "genres": [
+      "Lifestyle",
+      "English",
+      "United States"
+    ]
+  }
+}

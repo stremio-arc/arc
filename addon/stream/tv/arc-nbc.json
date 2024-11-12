@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "ARC",
+      "description": "auto.720p.en.m3u8",
+      "url": "http://fl1.moveonjoy.com/NBC_EAST/index.m3u8"
+    }
+  ]
+}

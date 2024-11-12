@@ -88,6 +88,20 @@
       ]
     },
     {
+      "id": "arc-nbc",
+      "type": "tv",
+      "name": "NBC",
+      "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/052018/untitled-1_134.png",
+      "posterShape": "square",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/052018/untitled-1_134.png",
+      "description": "The National Broadcasting Company is an American public broadcaster and radio network serving as the flagship property of the NBC Entertainment division of NBCUniversal, a subsidiary of Comcast.",
+      "genres": [
+        "Lifestyle",
+        "English",
+        "United States"
+      ]
+    },
+    {
       "id": "arc-tlc",
       "type": "tv",
       "name": "TLC",

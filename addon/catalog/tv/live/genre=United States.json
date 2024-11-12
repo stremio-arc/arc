@@ -15,6 +15,20 @@
       ]
     },
     {
+      "id": "arc-amc",
+      "type": "tv",
+      "name": "AMC",
+      "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062010/AMCHepburn_B.png",
+      "posterShape": "square",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062010/AMCHepburn_B.png",
+      "description": "AMC is an American basic cable television channel that first launched in 1984, and is the namesake flagship property of AMC Networks.",
+      "genres": [
+        "Lifestyle",
+        "English",
+        "United States"
+      ]
+    },
+    {
       "id": "arc-animalplanet",
       "type": "tv",
       "name": "Animal Planet",

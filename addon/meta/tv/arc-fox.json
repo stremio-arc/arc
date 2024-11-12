@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "arc-fox",
+    "type": "tv",
+    "name": "FOX",
+    "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/042013/untitled-1_140.png",
+    "posterShape": "square",
+    "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/042013/untitled-1_140.png",
+    "description": "Fox is an American commercial broadcast television network owned by the Fox Entertainment division of Fox Corporation.",
+    "genres": [
+      "Lifestyle",
+      "English",
+      "United States"
+    ]
+  }
+}

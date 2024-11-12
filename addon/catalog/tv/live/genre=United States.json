@@ -44,6 +44,21 @@
       ]
     },
     {
+      "id": "arc-discovery",
+      "type": "tv",
+      "name": "Discovery",
+      "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062019/img_20190616_133352.png",
+      "posterShape": "square",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062019/img_20190616_133352.png",
+      "description": "Discovery Channel, often referred to as simply Discovery, is an American cable channel owned by Warner Bros. Discovery",
+      "genres": [
+        "Nature",
+        "English",
+        "Hindi",
+        "United States"
+      ]
+    },
+    {
       "id": "arc-foodnetwork",
       "type": "tv",
       "name": "Food Network",
@@ -58,17 +73,16 @@
       ]
     },
     {
-      "id": "arc-discovery",
+      "id": "arc-fox",
       "type": "tv",
-      "name": "Discovery",
-      "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062019/img_20190616_133352.png",
+      "name": "FOX",
+      "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/042013/untitled-1_140.png",
       "posterShape": "square",
-      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062019/img_20190616_133352.png",
-      "description": "Discovery Channel, often referred to as simply Discovery, is an American cable channel owned by Warner Bros. Discovery",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/042013/untitled-1_140.png",
+      "description": "Fox is an American commercial broadcast television network owned by the Fox Entertainment division of Fox Corporation.",
       "genres": [
-        "Nature",
+        "Lifestyle",
         "English",
-        "Hindi",
         "United States"
       ]
     },

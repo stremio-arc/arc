@@ -87,6 +87,20 @@
       ]
     },
     {
+      "id": "arc-fx",
+      "type": "tv",
+      "name": "FX",
+      "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/022020/fx_logo_thumbnail.jpg",
+      "posterShape": "square",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/022020/fx_logo_thumbnail.jpg",
+      "description": "FX is an American pay television channel owned by FX Networks, a division of the Disney Entertainment business segment of the Walt Disney Company.",
+      "genres": [
+        "Lifestyle",
+        "English",
+        "United States"
+      ]
+    },
+    {
       "id": "arc-investigationdiscovery",
       "type": "tv",
       "name": "Investigation Discovery",

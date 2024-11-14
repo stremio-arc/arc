@@ -68,6 +68,32 @@
       ]
     },
     {
+      "id": "arc-bbcamerica",
+      "type": "tv",
+      "name": "BBC America",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-bbcworldnews",
+      "type": "tv",
+      "name": "BBC World News",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
       "id": "arc-discovery",
       "type": "tv",
       "name": "Discovery",

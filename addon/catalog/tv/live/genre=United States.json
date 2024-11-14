@@ -40,6 +40,19 @@
       ]
     },
     {
+      "id": "arc-americanheroes",
+      "type": "tv",
+      "name": "American Heroes",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
       "id": "arc-animalplanet",
       "type": "tv",
       "name": "Animal Planet",

@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "ARC (AceStream)",
-      "description": "auto.1080p.en",
+      "description": "1080p.eng",
       "externalUrl": "acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd"
     }
   ]

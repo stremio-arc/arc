@@ -2,8 +2,13 @@
   "streams": [
     {
       "name": "ARC",
-      "description": "auto.1080p.hi.m3u8",
+      "description": "auto.1080p.hin.m3u8",
       "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
+    },
+    {
+      "name": "ARC (AceStream)",
+      "description": "1080p.hin",
+      "externalUrl": "acestream://663fcb1e7b93266eb908181e0d24d21e186b38fe"
     }
   ]
 }

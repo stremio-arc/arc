@@ -4,7 +4,8 @@
   "scripts": {
     "lint": "standard --fix",
     "gen:series": "node generateSeries",
-    "gens:remote": "node generateSeriesRemote"
+    "gens:remote": "node generateSeriesRemote",
+    "gen:tv": "node generateTV"
   },
   "devDependencies": {
     "standard": "^17.1.2"

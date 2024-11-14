@@ -51,11 +51,11 @@ const start = async () => {
 
       const { season, episode } = getSeasonEpisode(filename)
 
-      let url 
-      
-      if(ref.startsWith('/')){
+      let url
+
+      if (ref.startsWith('/')) {
         url = `${baseUrl.protocol}//${baseUrl.host}${ref}`
-      } else{
+      } else {
         url = `${baseUrl}/${ref}`
       }
 

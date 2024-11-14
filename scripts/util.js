@@ -2,6 +2,8 @@ const path = require('node:path')
 const fs = require('node:fs')
 
 const seriesDirectory = path.join(__dirname, '../addon/stream/series')
+const tvMetaDirectory = path.join(__dirname, '../addon/meta/tv')
+const tvStreamDirectory = path.join(__dirname, '../addon/stream/tv')
 
 const extensionOrder = ['mp4', 'ia.mp4', 'mkv']
 
@@ -9,10 +11,24 @@ const getExtension = (url) => path.basename(url).split('.').splice(1).join('.')
 
 const checkExtensionOrder = (incoming, existing) => extensionOrder.indexOf(getExtension(incoming)) > extensionOrder.indexOf(getExtension(existing))
 
+exports.writeJSONFile = (filepath, contents) => fs.writeFileSync(filepath, JSON.stringify(contents, null, 2))
+
+exports.addTVMeta = (id, meta) => {
+  const filename = `arc-${id}.json`
+  exports.writeJSONFile(path.join(tvMetaDirectory, filename), meta)
+  console.log('added tv meta:', filename)
+}
+
+exports.addTVStream = (id, stream) => {
+  const filename = `arc-${id}.json`
+  exports.writeJSONFile(path.join(tvStreamDirectory, filename), stream)
+  console.log('added tv stream:', filename)
+}
+
 exports.addStream = (data) => {
   try {
-    //console.log(data)
-    
+    // console.log(data)
+
     if (data.language === undefined) data.language = 'eng'
     if (data.resolution === undefined) data.resolution = '1080p'
 

@@ -15,6 +15,19 @@
       ]
     },
     {
+      "id": "arc-accnetwork",
+      "type": "tv",
+      "name": "ACC Network",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
       "id": "arc-amc",
       "type": "tv",
       "name": "AMC",

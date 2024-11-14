@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "ARC",
-      "description": "auto.720p.en.m3u8",
+      "description": "720p.eng.m3u8",
       "url": "http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8"
     }
   ]

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-bigtennetwork",
+    "type": "tv",
+    "name": "Big Ten Network",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

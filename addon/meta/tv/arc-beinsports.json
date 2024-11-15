@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-beinsports",
+    "type": "tv",
+    "name": "beIN Sports",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-epix2",
+    "type": "tv",
+    "name": "EPIX 2",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

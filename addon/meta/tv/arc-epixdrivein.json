@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-epixdrivein",
+    "type": "tv",
+    "name": "EPIX Drive-In",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

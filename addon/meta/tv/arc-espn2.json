@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-espn2",
+    "type": "tv",
+    "name": "ESPN 2",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "ARC",
+      "description": "1080p.eng.m3u8",
+      "url": "http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8"
+    }
+  ]
+}

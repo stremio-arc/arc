@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-epixhits",
+    "type": "tv",
+    "name": "EPIX Hits",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

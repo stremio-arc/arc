@@ -356,6 +356,97 @@
       ]
     },
     {
+      "id": "arc-epix",
+      "type": "tv",
+      "name": "EPIX",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-epix2",
+      "type": "tv",
+      "name": "EPIX 2",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-epixdrivein",
+      "type": "tv",
+      "name": "EPIX Drive-In",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-epixhits",
+      "type": "tv",
+      "name": "EPIX Hits",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-espn2",
+      "type": "tv",
+      "name": "ESPN 2",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-espnnews",
+      "type": "tv",
+      "name": "ESPN News",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-espnu",
+      "type": "tv",
+      "name": "ESPN U",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
       "id": "arc-foodnetwork",
       "type": "tv",
       "name": "Food Network",

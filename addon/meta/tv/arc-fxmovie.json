@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-fxmovie",
+    "type": "tv",
+    "name": "FX Movie (FXM)",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

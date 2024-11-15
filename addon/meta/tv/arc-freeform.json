@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-freeform",
+    "type": "tv",
+    "name": "Freeform",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

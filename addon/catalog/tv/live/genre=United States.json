@@ -475,6 +475,45 @@
       ]
     },
     {
+      "id": "arc-foxsports1",
+      "type": "tv",
+      "name": "FOX Sports 1 (FS1)",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-freeform",
+      "type": "tv",
+      "name": "Freeform",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-fuse",
+      "type": "tv",
+      "name": "Fuse",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
       "id": "arc-fx",
       "type": "tv",
       "name": "FX",
@@ -484,6 +523,58 @@
       "description": "FX is an American pay television channel owned by FX Networks, a division of the Disney Entertainment business segment of the Walt Disney Company.",
       "genres": [
         "Lifestyle",
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-fxmovie",
+      "type": "tv",
+      "name": "FX Movie (FXM)",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-fxx",
+      "type": "tv",
+      "name": "FXX",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-fyi",
+      "type": "tv",
+      "name": "FYI",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-gettv",
+      "type": "tv",
+      "name": "getTV",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
         "English",
         "United States"
       ]

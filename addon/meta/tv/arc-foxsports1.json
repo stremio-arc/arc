@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-foxsports1",
+    "type": "tv",
+    "name": "FOX Sports 1 (FS1)",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

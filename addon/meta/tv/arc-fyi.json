@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-fyi",
+    "type": "tv",
+    "name": "FYI",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

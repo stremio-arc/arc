@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-bravo",
+    "type": "tv",
+    "name": "Bravo",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

@@ -120,6 +120,58 @@
       ]
     },
     {
+      "id": "arc-bloomberg",
+      "type": "tv",
+      "name": "Bloomberg",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-boomerang",
+      "type": "tv",
+      "name": "Boomerang",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-bouncetv",
+      "type": "tv",
+      "name": "Bounce",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-bravo",
+      "type": "tv",
+      "name": "Bravo",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
       "id": "arc-discovery",
       "type": "tv",
       "name": "Discovery",

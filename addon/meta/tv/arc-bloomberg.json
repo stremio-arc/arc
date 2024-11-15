@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-bloomberg",
+    "type": "tv",
+    "name": "Bloomberg",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

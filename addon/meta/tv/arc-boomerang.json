@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-boomerang",
+    "type": "tv",
+    "name": "Boomerang",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

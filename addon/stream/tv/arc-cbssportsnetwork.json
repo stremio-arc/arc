@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "ARC",
+      "description": "720p.eng.m3u8",
+      "url": "http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
+    }
+  ]
+}

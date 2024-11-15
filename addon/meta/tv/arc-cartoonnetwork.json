@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-cartoonnetwork",
+    "type": "tv",
+    "name": "Cartoon Network",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

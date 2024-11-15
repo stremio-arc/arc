@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-cspan",
+    "type": "tv",
+    "name": "C-SPAN",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

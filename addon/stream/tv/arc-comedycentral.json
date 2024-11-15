@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "ARC",
+      "description": "720p.eng.m3u8",
+      "url": "http://fl3.moveonjoy.com/Comedy_Central/index.m3u8"
+    }
+  ]
+}

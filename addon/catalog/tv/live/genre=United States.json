@@ -172,6 +172,110 @@
       ]
     },
     {
+      "id": "arc-cartoonnetwork",
+      "type": "tv",
+      "name": "Cartoon Network",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-cbs",
+      "type": "tv",
+      "name": "CBS",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-cbssportsnetwork",
+      "type": "tv",
+      "name": "CBS Sports Network",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-cinemax",
+      "type": "tv",
+      "name": "Cinemax",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-cmt",
+      "type": "tv",
+      "name": "CMT",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-comedycentral",
+      "type": "tv",
+      "name": "Comedy Central",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-cookingchannel",
+      "type": "tv",
+      "name": "Cooking Channel",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-cspan",
+      "type": "tv",
+      "name": "C-SPAN",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
       "id": "arc-discovery",
       "type": "tv",
       "name": "Discovery",

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-cmt",
+    "type": "tv",
+    "name": "CMT",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

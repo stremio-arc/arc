@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "ARC",
+      "description": "1080p.eng.m3u8",
+      "url": "http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-comedycentral",
+    "type": "tv",
+    "name": "Comedy Central",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

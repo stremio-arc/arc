@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-cbs",
+    "type": "tv",
+    "name": "CBS",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

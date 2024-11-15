@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-hbozone",
+    "type": "tv",
+    "name": "HBO Zone",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

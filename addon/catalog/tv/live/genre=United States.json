@@ -580,6 +580,123 @@
       ]
     },
     {
+      "id": "arc-hallmark",
+      "type": "tv",
+      "name": "Hallmark Channel",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-hallmarkdrama",
+      "type": "tv",
+      "name": "Hallmark Drama",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-hbo",
+      "type": "tv",
+      "name": "HBO",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-hbo2",
+      "type": "tv",
+      "name": "HBO 2",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-hbocomedy",
+      "type": "tv",
+      "name": "HBO Comedy",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-hbofamily",
+      "type": "tv",
+      "name": "HBO Family",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-hbozone",
+      "type": "tv",
+      "name": "HBO Zone",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-hgtv",
+      "type": "tv",
+      "name": "HGTV",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-hln",
+      "type": "tv",
+      "name": "HLN",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
       "id": "arc-investigationdiscovery",
       "type": "tv",
       "name": "Investigation Discovery",

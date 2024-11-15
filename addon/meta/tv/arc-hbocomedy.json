@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-hbocomedy",
+    "type": "tv",
+    "name": "HBO Comedy",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

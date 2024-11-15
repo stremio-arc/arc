@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-hgtv",
+    "type": "tv",
+    "name": "HGTV",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

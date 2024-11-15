@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-hln",
+    "type": "tv",
+    "name": "HLN",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

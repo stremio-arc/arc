@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-hbo",
+    "type": "tv",
+    "name": "HBO",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

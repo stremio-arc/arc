@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-hallmarkdrama",
+    "type": "tv",
+    "name": "Hallmark Drama",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-disneychannel",
+    "type": "tv",
+    "name": "Disney Channel",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

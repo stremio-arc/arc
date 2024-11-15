@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-disneyxd",
+    "type": "tv",
+    "name": "DisneyXD",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-discoveryfamily",
+    "type": "tv",
+    "name": "Discovery Family",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

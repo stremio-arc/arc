@@ -291,6 +291,71 @@
       ]
     },
     {
+      "id": "arc-discoveryfamily",
+      "type": "tv",
+      "name": "Discovery Family",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-discoverylife",
+      "type": "tv",
+      "name": "Discovery Life",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-disneychannel",
+      "type": "tv",
+      "name": "Disney Channel",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-disneyjr",
+      "type": "tv",
+      "name": "DisneyJr",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-disneyxd",
+      "type": "tv",
+      "name": "DisneyXD",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
       "id": "arc-foodnetwork",
       "type": "tv",
       "name": "Food Network",

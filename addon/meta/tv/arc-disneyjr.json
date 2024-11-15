@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-disneyjr",
+    "type": "tv",
+    "name": "DisneyJr",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

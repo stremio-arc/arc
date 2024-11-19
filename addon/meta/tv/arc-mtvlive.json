@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-mtvlive",
+    "type": "tv",
+    "name": "MTV Live",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

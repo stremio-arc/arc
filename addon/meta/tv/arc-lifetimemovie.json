@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-lifetimemovie",
+    "type": "tv",
+    "name": "Lifetime Movie Network",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

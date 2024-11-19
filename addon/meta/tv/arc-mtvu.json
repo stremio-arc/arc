@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-mtvu",
+    "type": "tv",
+    "name": "MTV U",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

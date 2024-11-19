@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-metv",
+    "type": "tv",
+    "name": "MeTV",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

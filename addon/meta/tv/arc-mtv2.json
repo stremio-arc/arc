@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-mtv2",
+    "type": "tv",
+    "name": "MTV2",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

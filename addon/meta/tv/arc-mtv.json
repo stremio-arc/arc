@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-mtv",
+    "type": "tv",
+    "name": "MTV",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

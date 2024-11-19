@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-mtvclassic",
+    "type": "tv",
+    "name": "MTV Classic",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

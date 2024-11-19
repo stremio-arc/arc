@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-nickelodeon",
+    "type": "tv",
+    "name": "Nickelodeon",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

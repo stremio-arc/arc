@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-natgeowild",
+    "type": "tv",
+    "name": "National Geographic Wild",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-nickjr",
+    "type": "tv",
+    "name": "NickJr",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

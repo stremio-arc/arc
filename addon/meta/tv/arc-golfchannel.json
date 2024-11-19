@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-golfchannel",
+    "type": "tv",
+    "name": "NBC Golf",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

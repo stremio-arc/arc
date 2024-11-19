@@ -580,6 +580,19 @@
       ]
     },
     {
+      "id": "arc-golfchannel",
+      "type": "tv",
+      "name": "NBC Golf",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
       "id": "arc-hallmark",
       "type": "tv",
       "name": "Hallmark Channel",
@@ -855,6 +868,45 @@
       ]
     },
     {
+      "id": "arc-natgeo",
+      "type": "tv",
+      "name": "National Geographic",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-natgeowild",
+      "type": "tv",
+      "name": "National Geographic Wild",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-nbatv",
+      "type": "tv",
+      "name": "NBA TV",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
       "id": "arc-nbc",
       "type": "tv",
       "name": "NBC",
@@ -863,7 +915,97 @@
       "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/052018/untitled-1_134.png",
       "description": "The National Broadcasting Company is an American public broadcaster and radio network serving as the flagship property of the NBC Entertainment division of NBCUniversal, a subsidiary of Comcast.",
       "genres": [
-        "Lifestyle",
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-newsnation",
+      "type": "tv",
+      "name": "News Nation",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-nflnetwork",
+      "type": "tv",
+      "name": "NFL Network",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-nhlnetwork",
+      "type": "tv",
+      "name": "NHL Network",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-nickelodeon",
+      "type": "tv",
+      "name": "Nickelodeon",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-nickjr",
+      "type": "tv",
+      "name": "NickJr",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-nickmusic",
+      "type": "tv",
+      "name": "NickMusic",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
+        "English",
+        "United States"
+      ]
+    },
+    {
+      "id": "arc-nicktoons",
+      "type": "tv",
+      "name": "NickToons",
+      "poster": "",
+      "posterShape": "square",
+      "logo": "",
+      "description": "",
+      "genres": [
         "English",
         "United States"
       ]

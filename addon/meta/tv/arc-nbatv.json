@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-nbatv",
+    "type": "tv",
+    "name": "NBA TV",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "ARC",
+      "description": "540p.eng.m3u8",
+      "url": "http://fl2.moveonjoy.com/National_Geographic/index.m3u8"
+    }
+  ]
+}

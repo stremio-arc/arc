@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-nickmusic",
+    "type": "tv",
+    "name": "NickMusic",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

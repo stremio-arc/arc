@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "arc-natgeo",
+    "type": "tv",
+    "name": "National Geographic",
+    "poster": "",
+    "posterShape": "square",
+    "logo": "",
+    "description": "",
+    "genres": [
+      "English",
+      "United States"
+    ]
+  }
+}

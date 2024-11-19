@@ -10,3 +10,6 @@ stremio://raw.githubusercontent.com/stremio-arc/arc/refs/heads/main/addon/manife
 
 ## Adding Streams
 If you want to add new streams, please raise a pull request.
+
+## TV Channels
+To view the available TV Channels, go to `Discover` tab on Stremio. Select `TV Channels` from the dropdown and the `Country` of your choice.

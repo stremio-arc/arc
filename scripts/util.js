@@ -113,3 +113,26 @@ exports.getSeasonEpisode = (filename) => {
 
   return { season, episode }
 }
+
+const getPath = (...parts) => path.join(__dirname, '../addon', ...parts)
+
+exports.getManifest = () => JSON.parse(fs.readFileSync(getPath('manifest.json')))
+
+exports.getMetasWithGenre = (type, genre) => {
+  const files = fs.readdirSync(getPath('meta', type))
+
+  const metas = []
+
+  for (const file of files) {
+    const meta = JSON.parse(fs.readFileSync(getPath('meta', type, file)))
+    if (meta?.meta?.genres?.includes(genre)) metas.push(meta?.meta)
+  }
+
+  return metas
+}
+
+exports.addCatalog = (type, id, filename, metas) => {
+  const filepath = getPath('catalog', type, id, filename)
+  exports.writeJSONFile(filepath, { metas })
+  console.log('added catalog:', filepath)
+}

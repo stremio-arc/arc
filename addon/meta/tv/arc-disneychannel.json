@@ -3,9 +3,9 @@
     "id": "arc-disneychannel",
     "type": "tv",
     "name": "Disney Channel",
-    "poster": "",
+    "poster": "https://yt3.ggpht.com/f0iLCrNntO0VhQIWfjL-VImU7zlUK_ImvoB6yUk_rRpAHKa6pzigju0_9j0_z6HiCCUG3e3e",
     "posterShape": "square",
-    "logo": "",
+    "logo": "https://yt3.ggpht.com/f0iLCrNntO0VhQIWfjL-VImU7zlUK_ImvoB6yUk_rRpAHKa6pzigju0_9j0_z6HiCCUG3e3e",
     "description": "",
     "genres": [
       "English",

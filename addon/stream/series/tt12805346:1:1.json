@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "ARC",
-      "description": "auto.1080p.hi.mx.m3u8",
+      "description": "auto.1080p.hin.mx.m3u8",
       "url": "https://media-content.akamaized.net/video/9688e4948212e4104211358e6a5eed40cb9d0d1310fb9f8e126577e73593f906/hls/h264_high.m3u8"
     }
   ]

@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "ARC",
-      "description": "1080p.hi.rlv.mkv",
+      "description": "1080p.hin.rlv.mkv",
       "url": "https://relivin.vercel.app/api/raw/?path=/MEDIA/TV/The.Family.Man.S01.1080p.AMZN.WEB-DL.DDP5.1.H.265-REL1VIN/The.Family.Man.S01E05.Pariah.1080p.AMZN.WEB-DL.DDP5.1.H.265-REL1VIN.mkv"
     }
   ]

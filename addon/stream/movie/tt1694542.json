@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "ARC",
-      "description": "1080p.hi.rlv.mkv",
+      "description": "1080p.hin.rlv.mkv",
       "url": "https://relivin.vercel.app/api/raw/?path=/MEDIA/Movies/Tanu.Weds.Manu.2011.1080p.JIO.WEB-DL.AAC2.0.H264-REL1VIN/Tanu.Weds.Manu.2011.1080p.JIO.WEB-DL.AAC2.0.H264-REL1VIN.mkv"
     }
   ]

@@ -2,12 +2,12 @@
   "streams": [
     {
       "name": "ARC",
-      "description": "1080p.h264.en.dff.mp4",
+      "description": "1080p.h264.eng.dff.mp4",
       "url": "https://a.datadiff.us.kg/movies/Troy%20%282004%29/Troy.2004.Directors.Cut.1080p.BluRay.H264.AAC.mp4"
     },
     {
       "name": "ARC",
-      "description": "1080p.h264.en.sdm.mkv",
+      "description": "1080p.h264.eng.sdm.mkv",
       "url": "https://dl2.sermoviedown.pw/Movies/2004/Troy/Troy.2004.DC.1080p.BluRay.x264.SoftSub.AAC-ETRG.Sermovie.mkv"
     }
   ]

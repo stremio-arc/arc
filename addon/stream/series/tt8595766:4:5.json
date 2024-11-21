@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "ARC",
-      "description": "auto.1080p.hi.amtv.mpd",
+      "description": "auto.1080p.hin.amtv.mpd",
       "url": "https://d3s0ximcru5bdx.cloudfront.net/tvfavod-ymf4-s4e5-ss2024-1724043411771/dash/VP9/tvfavod-ymf4-s4e5-ss2024.mpd"
     }
   ]

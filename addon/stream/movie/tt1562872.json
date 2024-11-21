@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "ARC",
-      "description": "1080p.hi.rlv.mkv",
+      "description": "1080p.hin.rlv.mkv",
       "url": "https://relivin.vercel.app/api/raw/?path=/MEDIA/Movies/Zindagi.Na.Milegi.Dobara.2011.1080p.NF.WEB-DL.DDP5.1.H.264-REL1VIN/Zindagi.Na.Milegi.Dobara.2011.1080p.NF.WEB-DL.DDP5.1.H.264-REL1VIN.mkv"
     }
   ]

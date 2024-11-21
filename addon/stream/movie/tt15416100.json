@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "ARC",
-      "description": "1080p.hi.rlv.mkv",
+      "description": "1080p.hin.rlv.mkv",
       "url": "https://relivin.vercel.app/api/raw/?path=/MEDIA/Movies/Visfot.2024.1080p.JIO.WEB-DL.DDP5.1.H264-REL1VIN/Visfot.2024.1080p.JIO.WEB-DL.DDP5.1.H264-REL1VIN.mkv"
     }
   ]

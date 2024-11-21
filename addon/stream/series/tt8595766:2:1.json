@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "ARC",
-      "description": "auto.1080p.hi.amtv.mpd",
+      "description": "auto.1080p.hin.amtv.mpd",
       "url": "https://d3s0ximcru5bdx.cloudfront.net/tvfavod-yehmerifamily-exclusive-s2e1-1684993778315/dash/tvfavod-yehmerifamily-exclusive-s2e1.mpd"
     }
   ]

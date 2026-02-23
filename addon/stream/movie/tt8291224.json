@@ -14,6 +14,16 @@
       "name": "ARC",
       "description": "auto.1080p.hin.ytb",
       "ytId": "ga1PMLM0Op4"
+    },
+    {
+      "name": "ARC",
+      "description": "auto.1080p.hin.vlp",
+      "externalUrl": "https://vidlink.pro/movie/554600"
+    },
+    {
+      "name": "ARC",
+      "description": "auto.1080p.hin.ytbl",
+      "externalUrl": "https://www.youtube.com/video/ga1PMLM0Op4"
     }
   ]
 }

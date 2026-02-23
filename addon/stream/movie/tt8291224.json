@@ -9,6 +9,11 @@
       "name": "ARC",
       "description": "auto.1080p.hin.ytb.embed",
       "externalUrl": "https://www.youtube.com/embed/ga1PMLM0Op4"
+    },
+    {
+      "name": "ARC",
+      "description": "auto.1080p.hin.ytb",
+      "ytId": "ga1PMLM0Op4"
     }
   ]
 }

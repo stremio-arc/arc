@@ -9,6 +9,11 @@
       "name": "ARC (AceStream)",
       "description": "1080p.hin",
       "externalUrl": "acestream://663fcb1e7b93266eb908181e0d24d21e186b38fe"
+    },
+    {
+      "name": "ARC",
+      "description": "auto.1080p.hin.ytb",
+      "ytId": "Nq2wYlWFucg"
     }
   ]
 }
